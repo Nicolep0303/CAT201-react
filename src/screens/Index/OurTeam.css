@@ -1,0 +1,243 @@
+.index {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .index .overlap-group-wrapper {
+    background-color: #ffffff;
+    height: 900px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .index .overlap-group {
+    height: 900px;
+    left: -340px;
+    position: relative;
+    width: 2119px;
+  }
+  
+  .index .hi-tech-global {
+    background-color: #000000;
+    height: 900px;
+    left: 340px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .index .text-wrapper {
+    color: #ffffff;
+    font-family: "Montserrat", Helvetica;
+    font-size: 72px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 74px;
+    width: 2119px;
+  }
+  
+  .index .group {
+    height: 640px;
+    left: 486px;
+    position: absolute;
+    top: 203px;
+    width: 1156px;
+  }
+  
+  .index .team {
+    background-color: #fafafa;
+    border-radius: 30px;
+    box-shadow: 0px 7px 15px #00000026;
+    height: 300px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 220px;
+  }
+  
+  .index .NORITA-BINTI-MUIN {
+    color: #0180dc;
+    font-family: "Inter", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 225px;
+  }
+  
+  .index .image {
+    height: 323px;
+    left: -12px;
+    object-fit: cover;
+    position: absolute;
+    top: -107px;
+    width: 244px;
+  }
+  
+  .index .as-the-chief {
+    color: #ffffff;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 260px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 18px;
+    width: 270px;
+  }
+  
+  .index .div {
+    background-color: #fafafa;
+    border-radius: 30px;
+    box-shadow: 0px 7px 15px #00000026;
+    height: 300px;
+    left: 585px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 220px;
+  }
+  
+  .index .ASILAH-ZARIFAH-BINTI {
+    color: #0180dc;
+    font-family: "Inter", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 21px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 225px;
+  }
+  
+  .index .img {
+    height: 316px;
+    left: -6px;
+    object-fit: cover;
+    position: absolute;
+    top: -100px;
+    width: 232px;
+  }
+  
+  .index .p {
+    color: #ffffff;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 878px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 13px;
+    width: 270px;
+  }
+  
+  .index .team-2 {
+    background-color: #fafafa;
+    border-radius: 30px;
+    box-shadow: 0px 7px 15px #00000026;
+    height: 300px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 340px;
+    width: 220px;
+  }
+  
+  .index .text-wrapper-2 {
+    color: #0180dc;
+    font-family: "Inter", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 245px;
+  }
+  
+  .index .image-2 {
+    height: 231px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 220px;
+  }
+  
+  .index .pei-wei-is-the {
+    color: #ffffff;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 260px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 358px;
+    width: 270px;
+  }
+  
+  .index .team-3 {
+    background-color: #fafafa;
+    border-radius: 30px;
+    box-shadow: 0px 7px 15px #00000026;
+    height: 300px;
+    left: 585px;
+    overflow: hidden;
+    position: absolute;
+    top: 340px;
+    width: 220px;
+  }
+  
+  .index .text-wrapper-3 {
+    color: #0180dc;
+    font-family: "Inter", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 245px;
+  }
+  
+  .index .image-3 {
+    height: 352px;
+    left: -33px;
+    object-fit: cover;
+    position: absolute;
+    top: -121px;
+    width: 267px;
+  }
+  
+  .index .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 878px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 358px;
+    width: 270px;
+  }
+  

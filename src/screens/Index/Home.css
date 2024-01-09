@@ -1,0 +1,81 @@
+.index {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .index .overlap-group-wrapper {
+    height: 800px;
+    width: 1440px;
+  }
+  
+  .index .overlap-group {
+    background-image: url(https://cdn.animaapp.com/projects/65988b9900be5f53b734f52e/releases/6598ce4a00be5f53b734f593/img/rectangle-1.png);
+    background-size: 100% 100%;
+    height: 900px;
+    position: relative;
+    top: -100px;
+  }
+  
+  .index .rectangle {
+    background-color: #28282880;
+    border: 0px none;
+    height: 516px;
+    left: 80px;
+    position: absolute;
+    top: 294px;
+    width: 630px;
+  }
+  
+  .index .text {
+    color: #ffffff;
+    font-family: "Montserrat", Helvetica;
+    font-size: 45px;
+    font-weight: 700;
+    left: 122px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 366px;
+    width: 559px;
+  }
+  
+  .index .text-wrapper {
+    color: #ffffff;
+    font-family: "Montserrat", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 122px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 531px;
+    width: 505px;
+  }
+  
+  .index .explore {
+    background-color: #b6eba9;
+    border-radius: 40px;
+    box-shadow: 0px 0px 25px #b7ebaa40;
+    height: 57px;
+    left: 122px;
+    overflow: hidden;
+    position: absolute;
+    top: 678px;
+    width: 180px;
+  }
+  
+  .index .div {
+    color: #000000;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 17px;
+  }
+  

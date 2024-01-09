@@ -1,0 +1,220 @@
+.index {
+    background-color: #012e72;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .index .frame-wrapper {
+    background-color: #012e72;
+    height: 900px;
+    width: 1440px;
+  }
+  
+  .index .frame {
+    height: 586px;
+    left: 99px;
+    position: relative;
+    top: 157px;
+    width: 1241px;
+  }
+  
+  .index .text-wrapper {
+    color: #ffffff;
+    font-family: "Montserrat", Helvetica;
+    font-size: 72px;
+    font-weight: 700;
+    left: 383px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .index .div {
+    height: 400px;
+    left: 0;
+    position: absolute;
+    top: 186px;
+    width: 1241px;
+  }
+  
+  .index .service {
+    background-color: #fafafa;
+    border-radius: 30px;
+    box-shadow: 0px 7px 15px #00000026;
+    height: 400px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 290px;
+  }
+  
+  .index .text-wrapper-2 {
+    color: #0180dc;
+    font-family: "Montserrat", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 271px;
+  }
+  
+  .index .we-ll-manage-all-of {
+    color: #000000;
+    font-family: "Montserrat", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 324px;
+  }
+  
+  .index .business-concept {
+    height: 263px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: -16px;
+    width: 395px;
+  }
+  
+  .index .service-2 {
+    background-color: #fafafa;
+    border-radius: 30px;
+    box-shadow: 0px 7px 15px #00000026;
+    height: 400px;
+    left: 317px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 290px;
+  }
+  
+  .index .data-backup-recovery {
+    color: #0180dc;
+    font-family: "Montserrat", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 271px;
+  }
+  
+  .index .prevent-the {
+    color: #000000;
+    font-family: "Montserrat", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 324px;
+    width: 221px;
+  }
+  
+  .index .cloud-drawer {
+    height: 246px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 290px;
+  }
+  
+  .index .service-3 {
+    background-color: #fafafa;
+    border-radius: 30px;
+    box-shadow: 0px 7px 15px #00000026;
+    height: 400px;
+    left: 634px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 290px;
+  }
+  
+  .index .text-wrapper-3 {
+    color: #0180dc;
+    font-family: "Montserrat", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 271px;
+  }
+  
+  .index .our-solutions-are {
+    color: #000000;
+    font-family: "Montserrat", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: -121px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 324px;
+    width: 532px;
+  }
+  
+  .index .rectangle {
+    height: 246px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 290px;
+  }
+  
+  .index .service-4 {
+    background-color: #fafafa;
+    border-radius: 30px;
+    box-shadow: 0px 7px 15px #00000026;
+    height: 400px;
+    left: 951px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 290px;
+  }
+  
+  .index .text-wrapper-4 {
+    color: #0180dc;
+    font-family: "Montserrat", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 70px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 271px;
+  }
+  
+  .index .stop-buying-servers {
+    color: #000000;
+    font-family: "Montserrat", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: -80px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 324px;
+    width: 451px;
+  }
+  
